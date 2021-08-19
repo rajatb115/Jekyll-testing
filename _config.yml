@@ -28,9 +28,11 @@ twitter_username: rajatb115
 github_username:  rajatb115
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
+   - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
